@@ -3,13 +3,13 @@ I'm **Safeer Dogar**, a dedicated Android Developer with over 3 years of experie
 
 💻 **Tech Stack**:  
 - **Languages**: Kotlin, Java  
-- **Frameworks & Architectures**: MVVM, MVC, Clean Architecture, Jetpack Libraries (Navigation, LiveData), Compose Navigation  
-- **Tools & Libraries**: Android Studio, Gradle, Git, Retrofit, Dagger/Hilt, Glide, Picasso  
+- **Frameworks & Architectures**: MVVM, MVI, Clean Architecture, Jetpack Compose, Compose Navigation  
+- **Tools & Libraries**: Android Studio, Gradle, Git, Retrofit, ktor, Dagger/Hilt, koin, Glide, Picasso  
 - **Database**: SQLite, Room, Firestore  
-- **APIs & Backend**: RESTful APIs, Google APIs (Maps, Firebase)  
+- **APIs & Backend**: RESTful APIs, GraphQL, Google APIs (Maps, Firebase)  
 - **Cloud & Hosting**: Firebase, Google Cloud  
 - **Testing**: JUnit5, Espresso  
-- **UI/UX**: XML Layouts, Material Design  
+- **UI/UX**: XML Layouts, Jetpack Compose, Material Design  
 - **Other Skills**: Hilt Dependency Injection, Google Maps/OSMdroid/OSM Bonus Pack
 
 📊 **GitHub Stats**:  
