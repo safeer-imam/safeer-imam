@@ -1,17 +1,24 @@
-💫 **About Me**:  
-I'm **Safeer Dogar**, a dedicated Android Developer with over 3 years of experience in building scalable and high-performing mobile applications. My passion lies in delivering top-quality solutions while continuously learning and adopting new technologies.
+<h1 align="center">Hi 👋, I'm Safeer Imam</h1>
+<h3 align="center">A passionate software developer from Pakistan</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=safeer-imam&label=Profile%20views&color=0e75b6&style=flat" alt="Safeer Imam" /> </p>
 
-💻 **Tech Stack**:  
-- **Languages**: Kotlin, Java  
-- **Frameworks & Architectures**: MVVM, MVI, Clean Architecture, Jetpack Compose, Compose Navigation  
-- **Tools & Libraries**: Android Studio, Gradle, Git, Retrofit, ktor, Dagger/Hilt, koin, Glide, Picasso  
-- **Database**: SQLite, Room, Firestore  
-- **APIs & Backend**: RESTful APIs, GraphQL, Google APIs (Maps, Firebase)  
-- **Cloud & Hosting**: Firebase, Google Cloud  
-- **Testing**: JUnit5, Espresso  
-- **UI/UX**: XML Layouts, Jetpack Compose, Material Design  
-- **Other Skills**: Hilt Dependency Injection, Google Maps/OSMdroid/OSM Bonus Pack
+- 🌱 I’m currently working in **Jetpack Compose**
 
-📊 **GitHub Stats**:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safeer-imam&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safeer-imam&layout=compact&theme=radical)
+- 👯 I’m looking to collaborate on **Android Projects**
+
+- 💬 Ask me about **android, kotlin, java, compose**
+
+
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=safeer-imam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=safeer-imam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=safeer-imam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=safeer-imam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=safeer-imam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,html,css,scss)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=safeer-imam&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=safeer-imam&limit=5&theme=dark&combine_all_yearly_contributions=true)
