@@ -9,7 +9,56 @@
 
 
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+#### 🧠 Languages & Core
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 🧱 Architecture & Patterns
+`MVVM` `MVI` `Clean Architecture`  
+`Hilt` `Koin` `Jetpack Architecture Components (ViewModel, LiveData, Navigation, etc.)`
+
+#### 🎨 UI & UX
+`Jetpack Compose` `XML Layouts`  
+`Material Design` `Bottom Navigation` `Side Menus`
+
+#### 🔗 Networking & APIs
+![Retrofit](https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-512DA8?style=for-the-badge&logoColor=white)  
+`RESTful APIs` `WebSockets`
+
+#### 🗃️ Database & Storage
+![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)  
+`Room Database` `Firestore` `SharedPreferences`
+
+#### ☁️ Firebase Suite
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+`Firebase Authentication` `Firebase OTP` `FCM (Push Notifications)`  
+`Firebase Analytics` `Firebase Crashlytics`
+
+#### 🧪 Testing & Debugging
+`JUnit` `Espresso` `LeakCanary`  
+`Firebase Crashlytics`
+
+#### 🛡️ Security & Authentication
+`OAuth 2.0` `Biometric Login`  
+`Encrypted SharedPreferences` `Secure API Communication`
+
+#### 🌐 DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+#### 🌍 Localization & Internationalization
+`Multi-language Support` `RTL Layouts` `Deep Linking`
+
+#### 📍 Maps & Location
+`Google Maps` `OpenStreetMap (OSM)` `OSMDroid`  
+`Real-Time Location Tracking`
+
+#### 📢 Ads & Engagement
+`AdMob (Banner, Interstitial, Rewarded)`  
+`Meta Ads` `FCM Notifications` `In-app Messaging`
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=safeer-imam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=safeer-imam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
